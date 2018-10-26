@@ -4,6 +4,11 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
+Name: [Prashant](https://github.com/prashantmishra12)<br/>
+Place: Lucknow,India <br/>
+About: software engineering developer!<br/>
+Programming languages: JavaScript, Html, Css ,Java and plenty of other <br/>
+Email: pmishra986@gmail.com
 
 Name: [Adish Rao]<br/>
 Place: INDIA<br/>
